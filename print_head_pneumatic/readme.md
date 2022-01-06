@@ -16,8 +16,8 @@ This folder contains design files for SLA/DLP manufactured microfluidic print he
 - 3x M3 threaded bolt
 - 3x M3 threaded nut
 - 3x M5 to luer-lock fittings
-- 3x one-way valve with luer-lock connectivity (e.g., 
-- 1x spiral mixer (optional - 2.36mm diameter, 15mm in length, e.g., [Nordson EFD 7700465](https://www.nordson.com/en/divisions/efd/products/mixers/disposable-spiral-mixers)
+- 3x one-way valve with luer-lock connectivity (e.g., [Braun infuvalve](https://www.bbraun.com/en/products/b/infuvalve.html))
+- 1x spiral mixer (optional - 2.36mm diameter, 15mm in length, e.g., [Nordson EFD 7700465](https://www.nordson.com/en/divisions/efd/products/mixers/disposable-spiral-mixers))
 - hollow blunt end needle G27 (optional)
 
 ## Assembly and usage
