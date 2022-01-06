@@ -1,6 +1,6 @@
 # Microfluidic printing using pneumatic extrusion
 
-# File descriptions
+## File descriptions
 
 # Required components list
 
