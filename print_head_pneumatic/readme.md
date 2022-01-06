@@ -2,8 +2,8 @@
 
 ## File descriptions
 
-# Required components list
+## Required components list
 
-# Assembly instructions
+## Assembly instructions
 
-# Printing considerations
+## Printing considerations
